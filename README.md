@@ -17,3 +17,4 @@ x_{pi}
 ## Inference
 
 1. Beta -Negative binominal Process and Poisson Factor Analysis
+$\Gamma$
